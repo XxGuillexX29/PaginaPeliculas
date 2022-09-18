@@ -12,7 +12,7 @@ class Section extends React.Component {
                         width={900}
                         height={1200}
                         alt="Cartelera"
-                        src="./Pelis1.png" />
+                        src="./img/Pelis1.png" />
                         </Stack>
                 </section>
             </>

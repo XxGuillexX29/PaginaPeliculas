@@ -16,7 +16,7 @@ class Header extends React.Component {
                                     width={100}
                                     height={100}
                                     alt="Logo"
-                                    src="./Logo2.png"/>
+                                    src="./img/Logo2.png"/>
                                     </Col>
                                     <Col xs={12} md={1}>
                                 <Button variant="dark" href="./public/peliculas.html" target="_blank">Peliculas</Button>
